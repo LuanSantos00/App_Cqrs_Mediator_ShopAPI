@@ -18,8 +18,8 @@ namespace Shop.Domain.Handlers
             var result = new CreateCustomerResponse
             {
                 Id = Guid.NewGuid(),
-                Name = "Luan Santos",
-                Email = "luancosmefilho@gmail.com",
+                Name = request.Name,
+                Email = request.Email,
                 Date = DateTime.Now,
             };
 

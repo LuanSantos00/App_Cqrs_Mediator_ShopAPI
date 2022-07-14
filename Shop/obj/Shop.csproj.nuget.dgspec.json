@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USUARIO\\Desktop\\Estudos\\APP_CQRS_MEDIATOR\\Shop\\Shop\\Shop.csproj": {}
+    "C:\\Users\\luanc\\Documents\\APP_CQRS_MEDIATOR\\Shop\\Shop\\Shop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USUARIO\\Desktop\\Estudos\\APP_CQRS_MEDIATOR\\Shop\\Shop\\Shop.csproj": {
+    "C:\\Users\\luanc\\Documents\\APP_CQRS_MEDIATOR\\Shop\\Shop\\Shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\Estudos\\APP_CQRS_MEDIATOR\\Shop\\Shop\\Shop.csproj",
+        "projectUniqueName": "C:\\Users\\luanc\\Documents\\APP_CQRS_MEDIATOR\\Shop\\Shop\\Shop.csproj",
         "projectName": "Shop",
-        "projectPath": "C:\\Users\\USUARIO\\Desktop\\Estudos\\APP_CQRS_MEDIATOR\\Shop\\Shop\\Shop.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Desktop\\Estudos\\APP_CQRS_MEDIATOR\\Shop\\Shop\\obj\\",
+        "projectPath": "C:\\Users\\luanc\\Documents\\APP_CQRS_MEDIATOR\\Shop\\Shop\\Shop.csproj",
+        "packagesPath": "C:\\Users\\luanc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luanc\\Documents\\APP_CQRS_MEDIATOR\\Shop\\Shop\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luanc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,20 +42,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "MediatR": {
-              "target": "Package",
-              "version": "[10.0.1, )"
-            },
-            "MediatR.Extensions.Microsoft.DependencyInjection": {
-              "target": "Package",
-              "version": "[10.0.1, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.2.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -63,15 +52,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     }

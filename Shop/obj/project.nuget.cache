@@ -1,19 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bVxSeTsY3Ngdabkmrmtq5VUAMnqGGbN8U2OpQVlO3alhSOyJmbDApc6p7wC4/FH+EI47E8DCi9xfDrt5mTDsPw==",
+  "dgSpecHash": "8z/xnjpjN+nhzOyI0cVHged7XuxJ4d3IhjQDTyzViL5UpKDSX6SGhvBK9R9YHvfBWnNt27ZQRngNMfWh/+Azvw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USUARIO\\Desktop\\Estudos\\APP_CQRS_MEDIATOR\\Shop\\Shop\\Shop.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\USUARIO\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
-    "C:\\Users\\USUARIO\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
-    "C:\\Users\\USUARIO\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
-    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\USUARIO\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "C:\\Users\\USUARIO\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "C:\\Users\\USUARIO\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\USUARIO\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\luanc\\Documents\\APP_CQRS_MEDIATOR\\Shop\\Shop\\Shop.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
